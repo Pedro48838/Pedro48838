@@ -6,6 +6,18 @@ Para futuramente iniciar meus aprendimentos em Python, IA e Machine Learning.
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+  
+  ```kotlin
+object **Pedro** {
+ val name = "Pedro Paulo Tosto"
+ val idade = "22"
+ val acknowledgements = "Programação, Git e Banco de Dados"
+ 
+ val primarySkillset = "Aprendo rapido, sempre em busca de mais conhecimento"
+ val languages = listOf("C", "Python", "C++", "JavaScript") 
+
+}
+```
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
