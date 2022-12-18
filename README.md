@@ -48,8 +48,10 @@ object **SEU NOME** {
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Linkedin: Pedro Paulo](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-paulo-t-95b416180/)](https://www.linkedin.com/in/pedro-paulo-t-95b416180/)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
-[![GitHub SEU NOME]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](LINK-DO-SEU-GITHUB)
+[![Linkedin: Pedro Paulo](https://img.shields.io/badge/-Pedro_Paulo_Tosto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-paulo-t-95b416180/)](https://www.linkedin.com/in/pedro-paulo-t-95b416180/)
+[![Gmail Badge](https://img.shields.io/badge/-pedropaulo.profissional@gmail.com.br-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedropaulo.profissional.contato@gmail.com
+)](mailto:pedropaulo.profissional.contato@gmail.com
+)
+[![GitHub Pedro48838]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)]([https://github.com/Pedro48838](https://github.com/Pedro48838))
 
 
