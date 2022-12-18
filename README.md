@@ -7,16 +7,6 @@ Para futuramente iniciar meus aprendimentos em Python, IA e Machine Learning.
 
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
-```kotlin
-object **SEU NOME** {
- val name = "SEU NOME COMPLETO"
- val acknowledgements = "ÁREA DE CONHECIMENTO"
- 
- val primarySkillset = "ALGUMAS HABILIDADES"
- val languages = listOf("Java", "Python", "JavaScript", "Kotlin", "React") 
-
-}
-```
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
 ## **Linguagens e Ferramentas:**  
@@ -32,11 +22,11 @@ object **SEU NOME** {
 ## **GitHub Estatísticas**
 
 <a href="https://github.com/Gurupreet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanessaswerts&theme=dracula&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro48838&theme=dracula&hide_langs_below=1" />
 </a>
 
 <a href="https://github.com/Gurupreet">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=vanessaswerts&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Pedro48838&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
 </a>
 
 [website]: https://codedev.ga/
@@ -45,6 +35,8 @@ object **SEU NOME** {
 [instagram]: https://www.instagram.com/SEUINSTAGRAM/
 [linkedin]: https://www.linkedin.com/in/SEULINKEDIN/
 <br>
+ 
+ <img align="right" width="300" src="https://meneguite.com/2017/10/01/golang-desbravando-uma-linguagem-de-programacao-parte-1/001.gif" />
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
@@ -52,6 +44,4 @@ object **SEU NOME** {
 [![Gmail Badge](https://img.shields.io/badge/-pedropaulo.profissional@gmail.com.br-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedropaulo.profissional.contato@gmail.com
 )](mailto:pedropaulo.profissional.contato@gmail.com
 )
-[![GitHub Pedro48838]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)]([https://github.com/Pedro48838](https://github.com/Pedro48838))
-
 
