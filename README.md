@@ -1,6 +1,6 @@
 ### <h1><strong><bold>Bem vindo ao meu mundo! 💻📚</bold></strong>
 
-Gosto de obter novos conhecimentos. Sempre busco ir em direcao ao desconhecido; Meu foco principal e linguagem C, banco de dados e Git.
+Gosto de obter novos conhecimentos. Sempre busco ir em direcao ao desconhecido; Meu foco principal e linguagem Python, banco de dados e Git.
 Para futuramente iniciar meus aprendimentos em Python, IA e Machine Learning.
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
